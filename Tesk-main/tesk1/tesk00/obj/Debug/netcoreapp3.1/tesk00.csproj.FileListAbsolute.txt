@@ -1,0 +1,13 @@
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\bin\Debug\netcoreapp3.1\tesk00.exe
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\bin\Debug\netcoreapp3.1\tesk00.deps.json
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\bin\Debug\netcoreapp3.1\tesk00.runtimeconfig.json
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\bin\Debug\netcoreapp3.1\tesk00.runtimeconfig.dev.json
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\bin\Debug\netcoreapp3.1\tesk00.dll
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\bin\Debug\netcoreapp3.1\tesk00.pdb
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.csprojAssemblyReference.cache
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.AssemblyInfoInputs.cache
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.AssemblyInfo.cs
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.csproj.CoreCompileInputs.cache
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.dll
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.pdb
+C:\Users\alexn\Desktop\tesk\tesk00\tesk00\obj\Debug\netcoreapp3.1\tesk00.genruntimeconfig.cache
